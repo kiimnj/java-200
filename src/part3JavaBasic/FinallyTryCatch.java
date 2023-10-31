@@ -5,7 +5,8 @@ public class FinallyTryCatch {
     public static void main(String[] args) {
         //Exception으로 프로그래밍의 문제를 유연하게 처리 - RuntimeException, CompileException
         //RuntimeException : 실행 시 발생 - 범위 벗어난 배열, 잘못된 입력 형식, 수학 연산 에러, ...
-        try {
+        //https://data-study-clip.tistory.com/144
+        try { //AutoClosable : try() - 자바 7이상, catch, finally((close() 메소드)) 중 반드시 실행되지 않아도 됨
             //예외 발생 가능성 있는 문장
             int x = 5;
             int y = 20 / (5 - x); //수학 연산 에러
