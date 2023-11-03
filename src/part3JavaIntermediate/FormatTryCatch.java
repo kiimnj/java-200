@@ -1,4 +1,4 @@
-package part3JavaBasic;
+package part3JavaIntermediate;
 
 //중급 062 정수를 입력받을 때 발생할 수 있는 예외 처리하기
 public class FormatTryCatch {

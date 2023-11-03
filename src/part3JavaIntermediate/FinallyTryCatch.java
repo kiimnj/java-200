@@ -1,4 +1,4 @@
-package part3JavaBasic;
+package part3JavaIntermediate;
 
 //중급 063 수학 연산에서 발생하는 예외 처리하기
 public class FinallyTryCatch {

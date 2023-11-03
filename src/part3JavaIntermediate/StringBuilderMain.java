@@ -1,4 +1,4 @@
-package part3JavaBasic;
+package part3JavaIntermediate;
 
 //중급 070 StringBuilder로 문자열 수정, 변경, 추가하기
 public class StringBuilderMain {

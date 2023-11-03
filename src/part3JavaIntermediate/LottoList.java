@@ -1,4 +1,4 @@
-package part3JavaBasic;
+package part3JavaIntermediate;
 
 import java.util.ArrayList;
 import java.util.List;
